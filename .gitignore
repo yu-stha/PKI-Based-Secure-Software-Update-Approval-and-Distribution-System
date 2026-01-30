@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Secrets and keys (do not push!)
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+.env
+secrets/
