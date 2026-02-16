@@ -1,0 +1,21 @@
+{
+  "latest": "v2.1",
+  "releases": [
+    {
+      "version": "v2.0",
+      "filename": "update_v2.zip",
+      "sha256": "f1aff5881e266102fce3beeb168d4e90de7646b238b4e2e2223b9ea7de55b9a0",
+      "uploaded_at": 1770896663,
+      "company_cert_subject": "CN=updates.legitcompany.com,OU=DevTeam,O=LegitSoftwareCompany,L=Kathmandu,ST=Bagmati,C=NP"
+    },
+    {
+      "version": "v2.1",
+      "filename": "update_v2.zip",
+      "sha256": "f1aff5881e266102fce3beeb168d4e90de7646b238b4e2e2223b9ea7de55b9a0",
+      "signature_b64": "3jS33zOyXUkpx9DQ2VeuN+VGYixu8bj643JJXmG9vR8afg8GOGuDgOH0gcm6cmwcve6ebhcSNgmETW6e64rMTDydYZV3UImbyVQQbfs+uj+DyuLoolBkYbvIwXB4qKyOoqrXdB0eBIOoJ3rFEAvOF9QE/FJNdmzhFDj3OXvISjlEg1gMsJfuFEToZ7G2/EFfOq5SIJZ2L4UegtHbZs0ESmHcKVk/CZ5ZN19NiWXocjLwI2ipGvOnh2FQFe2iLQrKr56FWC789OhJhwwggYaFMCLMbyZ+WUyYBODEzHABEsOELuSoQmbXwUL3Jk+QaL7fHY7NJIhNzEZVO53KfVzSKg==",
+      "cert_fingerprint_sha256": "b6da7c9667dd97956b07d2a6e56aabefd8a709bc74da78bf9e448a9db07478c2",
+      "uploaded_at": 1770898025,
+      "company_cert_subject": "CN=updates.legitcompany.com,OU=DevTeam,O=LegitSoftwareCompany,L=Kathmandu,ST=Bagmati,C=NP"
+    }
+  ]
+}
