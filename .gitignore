@@ -16,3 +16,4 @@ env/
 *.crt
 .env
 secrets/
+update-server/storage/logs/
