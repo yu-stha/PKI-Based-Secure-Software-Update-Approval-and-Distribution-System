@@ -1,7 +1,6 @@
 # PKI-Based Secure Software Update Approval and Distribution System
 
 **Cybersecurity Capstone Project – Production-Grade Academic Implementation**
-
 ---
 
 ## Table of Contents
